@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891529284686",
+    "firebase_url": "https://oqyapp.firebaseio.com",
+    "project_id": "oqyapp",
+    "storage_bucket": "oqyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891529284686:android:746da5f6e6e61c2f2d471f",
+        "android_client_info": {
+          "package_name": "com.zhusup.okyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891529284686-v4a8m0jm280g52tg95t6pjcp3lubgir8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zhusup.okyapp",
+            "certificate_hash": "4490c98f532367b3dd290f939ee8c791f3d4a95d"
+          }
+        },
+        {
+          "client_id": "891529284686-3l1k6acfikoe06alhc8pueiiab2agfah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAekbMxQcW-Z-9AJleWSGfyceYH40PD-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891529284686-3l1k6acfikoe06alhc8pueiiab2agfah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#c6c6c6</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="menu_background">#119</color>
+    <color name="background">#ececec</color>
+
+    <color name="colorBackground">#f9f9fa</color>
+    <color name="colorTextSubtitle">#4e4e4e</color>
+    <color name="colorTextTitle">#262626</color>
+    <color name="appcolor">#129ae0</color>
+</resources>
